@@ -3,6 +3,6 @@ Program permainan penjumlahan sederhana. Program ini memiliki 3 level permainan 
 Jumlah soal diatur secara default sampai dengan 10 nomor. Tetapi nantinya user atau pengguna dapat mengubah jumlah soal sesuai dengan keinginan.
 
 Untuk level permainan ada 3 tingkatan, yaitu
-level 1 = penjumlahan 1 - 10
-level 2 = penjumlahan 1 - 20
+level 1 = penjumlahan 1 - 10,
+level 2 = penjumlahan 1 - 20,
 level 3 = penjumlahan 1 - 30
