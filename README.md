@@ -6,3 +6,5 @@ Untuk level permainan ada 3 tingkatan, yaitu
 level 1 = penjumlahan 1 - 10,
 level 2 = penjumlahan 1 - 20,
 level 3 = penjumlahan 1 - 30
+
+Untuk menjalankan program, silahkan jalankan file yang bernama ProgQuis21410100045.java
